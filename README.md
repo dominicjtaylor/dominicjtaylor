@@ -1,7 +1,7 @@
 ## Hi, I'm Dom 👋
 
-I'm a final-year PhD researcher in Astrophysics at Durham, working on galaxy formation and evolution. 🌌
-My PhD has involved working with large observational datasets, dealing with uncertainty, and validating results carefully.
+I'm an associate researcher in Astrophysics at Durham, working on galaxy formation and evolution. 🌌
+My research involves working with large observational datasets, dealing with uncertainty, and validating results carefully.
 Which mostly means working with messy data and trying not to fool myself with it.
 
 > “The first principle is that you must not fool yourself — and you are the easiest person to fool."
